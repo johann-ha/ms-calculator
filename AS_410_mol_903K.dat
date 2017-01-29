@@ -1,0 +1,71 @@
+ Output from POLY-3, equilibrium =     1, label A0  , database: TCFE7   
+
+ Conditions:
+ N=1, P=1.01325E5, T=903, W(MN)=3.9E-3, W(NI)=4.62E-2, W(CR)=0.126,
+    W(C)=1.8E-4, W(SI)=4.3E-3, W(CU)=5E-4, W(MO)=6.1E-3, W(N)=2.2E-4
+ DEGREES OF FREEDOM 0
+
+ Temperature    903.00 K (   629.85 C),  Pressure  1.013250E+05
+ Number of moles of components  1.00000E+00,  Mass in grams  5.52879E+01
+ Total Gibbs energy -3.97942E+04,  Enthalpy  2.17491E+04,  Volume  7.27471E-06
+
+ Component               Moles       M-Fraction  Activity   Potential  Ref.stat
+ C                       8.2856E-04  8.2856E-04 1.1264E-04 -6.8257E+04 SER     
+ CR                      1.3398E-01  1.3398E-01 7.2884E-03 -3.6950E+04 SER     
+ CU                      4.3502E-04  4.3502E-04 5.6777E-04 -5.6113E+04 SER     
+ FE                      8.0446E-01  8.0446E-01 7.0413E-03 -3.7209E+04 SER     
+ MN                      3.9248E-03  3.9248E-03 1.5157E-05 -8.3317E+04 SER     
+ MO                      3.5153E-03  3.5153E-03 9.0691E-04 -5.2597E+04 SER     
+ N                       8.6838E-04  8.6838E-04 3.6864E-09 -1.4580E+05 SER     
+ NI                      4.3522E-02  4.3522E-02 2.8552E-04 -6.1274E+04 SER     
+ SI                      8.4646E-03  8.4646E-03 3.8587E-11 -1.8003E+05 SER     
+
+ BCC_A2                      Status ENTERED     Driving force  0.0000E+00
+ Moles 8.1050E-01, Mass 4.4837E+01, Volume fraction 8.1371E-01  Mole fractions:
+ FE  8.21947E-01  SI  8.25109E-03  CU  2.46690E-04
+ CR  1.32852E-01  MO  3.08726E-03  C   1.28819E-06
+ NI  3.15550E-02  MN  2.05821E-03  N   1.13864E-06
+ Constitution:
+ Sublattice  1,  Number of sites  1.0000E+00
+ FE  8.21949E-01  NI  3.15550E-02  MO  3.08727E-03  CU  2.46690E-04
+ CR  1.32853E-01  SI  8.25111E-03  MN  2.05822E-03
+ Sublattice  2,  Number of sites  3.0000E+00
+ VA  9.99999E-01  C   4.29399E-07  N   3.79547E-07
+
+ FCC_A1#1                    Status ENTERED     Driving force  0.0000E+00
+ Moles 1.8298E-01, Mass 1.0154E+01, Volume fraction 1.8022E-01  Mole fractions:
+ FE  7.53739E-01  MN  1.23011E-02  CU  1.28474E-03
+ CR  1.21947E-01  SI  9.71221E-03  N   1.12704E-04
+ NI  9.80304E-02  MO  2.84167E-03  C   3.06509E-05
+ Constitution:
+ Sublattice  1,  Number of sites  1.0000E+00
+ FE  7.53847E-01  NI  9.80445E-02  SI  9.71360E-03  CU  1.28492E-03
+ CR  1.21965E-01  MN  1.23028E-02  MO  2.84208E-03
+ Sublattice  2,  Number of sites  1.0000E+00
+ VA  9.99857E-01  N   1.12720E-04  C   3.06553E-05
+
+ M23C6                       Status ENTERED     Driving force  0.0000E+00
+ Moles 3.9245E-03, Mass 1.8950E-01, Volume fraction 3.5230E-03  Mole fractions:
+ CR  6.04796E-01  FE  9.02512E-02  N   0.00000E+00
+ C   2.06897E-01  NI  2.25155E-03  CU  0.00000E+00
+ MO  9.55596E-02  MN  2.44935E-04  SI  0.00000E+00
+ Constitution:
+ Sublattice  1,  Number of sites  2.0000E+01
+ CR  8.66938E-01  FE  1.29528E-01  NI  3.21501E-03  MN  3.19513E-04
+ Sublattice  2,  Number of sites  3.0000E+00
+ MO  9.23743E-01  FE  8.91127E-03  MN  2.37621E-04
+ CR  6.67768E-02  NI  3.31547E-04
+ Sublattice  3,  Number of sites  6.0000E+00
+ C   1.00000E+00
+
+ HCP_A3#2                    Status ENTERED     Driving force  0.0000E+00
+ Moles 2.5962E-03, Mass 1.0764E-01, Volume fraction 2.5412E-03  Mole fractions:
+ CR  6.21249E-01  C   3.83211E-03  NI  8.72570E-05
+ N   3.26186E-01  MN  1.87024E-03  SI  2.03978E-11
+ MO  4.54780E-02  FE  1.29739E-03  CU  6.69982E-13
+ Constitution:
+ Sublattice  1,  Number of sites  1.0000E+00
+ CR  9.27262E-01  MN  2.79148E-03  NI  1.30238E-04  CU  1.00000E-12
+ MO  6.78794E-02  FE  1.93645E-03  SI  3.04454E-11
+ Sublattice  2,  Number of sites  5.0000E-01
+ N   9.73717E-01  VA  1.48433E-02  C   1.14394E-02
